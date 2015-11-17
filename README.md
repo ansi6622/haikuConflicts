@@ -5,11 +5,11 @@ Directions: There are 4 Branches in this repo , master, 'a', 'b', and 'c'. Withi
 
 Your goal is to bring the entire haiku into the 'a' branch.
 
-#IMPORTANT
+# Important
 After you fork and clone this repo and are in the master branch in your terminal, git checkout individually to branches 'a', 'b', and 'c'.
 If you don't , the branches won't be available locally to you and it won't work properly.
 
-Start by merging the 'c' branch into the 'b' branch. You should get a merge conflict, go into your editor and keep both of the lines and remove the conflict syntax. Don't leave whitespace at the top , use up lines 1 and 2.
+Now, start by merging the 'c' branch into the 'b' branch. You should get a merge conflict, go into your editor and keep both of the lines and remove the conflict syntax. Don't leave whitespace at the top , use up lines 1 and 2.
 
 Next merge the 'b' branch into the 'a' branch, you should get another merge conflict. Keep all 3 lines and remove the conflict syntax.
 
