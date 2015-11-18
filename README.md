@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #haikuConflicts
 Overview: Resolve merge conflicts on different branches to create one branch with a complete and correct Haiku.
 
@@ -9,12 +8,8 @@ Directions: There are 4 Branches in this repo , master, 'a', 'b', and 'c'. Withi
 Your goal is to bring the entire haiku into the 'a' branch.
 
 # Important
-<<<<<<< HEAD
-After you fork this repo and are in the master branch in your terminal, git checkout individually to branches 'a', 'b', and 'c'.
-=======
 After you clone this repo and are in the master branch in your terminal, git checkout individually to branches 'a', 'b', and 'c'.
->>>>>>> c
-If you don't , the branches won't be available locally to you and it won't work properly.
+
 
 Now, start by merging the 'c' branch into the 'b' branch. You should get a merge conflict, go into your editor and keep both of the lines and remove the conflict syntax. Don't leave whitespace at the top , use up lines 1 and 2.
 
@@ -27,6 +22,3 @@ Over-ripe sushi,
 The Master
 Is full of regret.
 ```
-=======
-# haikuConflicts
->>>>>>> parent of b02b838... added third line
