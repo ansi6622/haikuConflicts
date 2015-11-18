@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #haikuConflicts
 Overview: Resolve merge conflicts on different branches to create one branch with a complete and correct Haiku.
 
@@ -26,3 +27,6 @@ Over-ripe sushi,
 The Master
 Is full of regret.
 ```
+=======
+# haikuConflicts
+>>>>>>> parent of b02b838... added third line
